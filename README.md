@@ -1,3 +1,3 @@
 # apnaCollege-demo
 This is my first git repository. <br>
-Author - Suhani Gupta
+Author - Suhani Gupta (CSE branch)
